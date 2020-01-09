@@ -1,1 +1,5 @@
+test\n+
 test
+++test
++test\n\n++\n
++\n+
